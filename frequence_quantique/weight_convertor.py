@@ -6,7 +6,7 @@ if weight_units == "l":
 elif weight_units =="k":
     print("Your weight is " + str(float(weight_input) / 0.45) + " Lbs")
 else:
-    print("Invalid answer")
+    print("Invalid answer")  #error management
 
 
 class Rectangle:
