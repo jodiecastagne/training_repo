@@ -36,4 +36,5 @@ class Rectangle:
 rectangle = Rectangle(10, 20)
 rectangle2 = Rectangle(20,30)
 rectangle3 = Rectangle(20, 40)
+rectangle4 = Rectangle(50, 50)
 print(rectangle < rectangle2)
